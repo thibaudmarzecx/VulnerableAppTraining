@@ -227,7 +227,7 @@ This project is for educational purposes only. See [LICENSE](./LICENSE) for deta
 - **Technical Issues**: Create an issue in this repository
 - **Checkmarx One Help**: Refer to official documentation
 
-  #modfiying for training purposes
+  #modfiying for training purposes2
 
 ---
 
