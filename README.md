@@ -227,6 +227,8 @@ This project is for educational purposes only. See [LICENSE](./LICENSE) for deta
 - **Technical Issues**: Create an issue in this repository
 - **Checkmarx One Help**: Refer to official documentation
 
+  #modfiying for training purposes
+
 ---
 
 **Remember**: This application is intentionally vulnerable. Use only for security training in isolated environments.
