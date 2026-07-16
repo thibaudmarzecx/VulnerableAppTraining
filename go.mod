@@ -10,3 +10,7 @@ require (
 	github.com/gorilla/mux v1.7.4
 	gopkg.in/yaml.v2 v2.2.8
 )
+
+require (
+	golang.org/x/crypto v0.47.0 // indirect; CVE-2026-39833: enforce ConfirmBeforeUse constraint in NewKeyring()
+)
