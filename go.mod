@@ -9,4 +9,5 @@ require (
 	github.com/gorilla/sessions v1.2.0
 	github.com/gorilla/mux v1.7.4
 	gopkg.in/yaml.v2 v2.2.8
+	golang.org/x/crypto v0.47.0
 )
