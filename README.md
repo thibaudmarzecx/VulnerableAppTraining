@@ -2,7 +2,7 @@
 
 [![Security Scan](https://img.shields.io/badge/security-intentionally%20vulnerable-red.svg)](./SECURITY.md)
 [![Go Version](https://img.shields.io/badge/go-1.19+-blue.svg)](https://golang.org/)
-[![Training Ready](https://img.shields.io/badge/training-ready-green.svg)](./TRAINING.md)
+[![Training Ready](https://img.shields.io/badge/training-ready-green.svg)](./TRAINING.md) - 
 
 This is a deliberately vulnerable web application built with Go and SQLite for Checkmarx One security testing and training purposes.
 
